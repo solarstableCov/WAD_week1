@@ -1,2 +1,4 @@
 # WAD_week1
-first change
+week1 exploration of git
+
+This is my first change.
